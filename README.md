@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm John (@john6118) 👋
 
-<!--
-**john6118/john6118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst by day, Python tinkerer by night. Austin based. I spend most of my time turning disorganized CSVs into clean data pipelines, reliable SQL models, and lightweight analytical tools.
 
-Here are some ideas to get you started:
+### What I'm working on
+- Building internal analytics and reporting workflows at Data Insights
+- Replacing oversized pandas memory hogs with DuckDB for local data processing
+- Scripting CLI tools to automate routine data pulls and audits
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Toolbox
+- **Languages:** Python, SQL
+- **Libraries & Tools:** Pandas, NumPy, DuckDB, Jupyter
+- **Databases:** PostgreSQL, SQLite
+
+### Connect
+- Open an issue/discussion on any repo here if you want to collaborate or talk data tooling.
